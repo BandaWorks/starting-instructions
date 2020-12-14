@@ -1,4 +1,4 @@
-## Useful instructions
+## Useful guides
 
 Instructions to help you start your project quicker :muscle:
 
